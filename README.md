@@ -31,7 +31,7 @@ Rename a collection.
 
 Delete a collection.
 
-![Collections product page button](assets/collections_menu_single_product_page.png)
+![Collections product page button](assets/single_product_page.png)
 
 This button will add the product to the selected collection and is displayed in the single product page.
 
